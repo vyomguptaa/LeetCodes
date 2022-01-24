@@ -12,5 +12,6 @@ public:
                 nums1[end--] = nums2[end2--];
             }
         
-    }}
+    }
+    }
 };
