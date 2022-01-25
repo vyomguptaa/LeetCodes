@@ -11,5 +11,5 @@ public:
         }
         int result = product-sum;
         return result;
-    }
+   }
 };
