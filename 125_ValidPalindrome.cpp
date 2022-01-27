@@ -6,10 +6,9 @@ public:
         return true;
     return false;
 }
-    
 char lowerCase(char c)
 {
-    if(65<=c && c<=90)
+   if(65<=c && c<=90)
         return c+32;
     else 
         return c;
